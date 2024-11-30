@@ -124,7 +124,7 @@ class Password_Generator
             {
             System.out.println("\n\n\n");
             System.out.println("Java Version: " + System.getProperty("java.version") + " by " + System.getProperty("java.vendor"));
-            //System.out.println("User: " + System.getProperty("user.name"));  //<-- TURNED OFF FOR PRIVACY IN THE VIDEO
+            System.out.println("User: " + System.getProperty("user.name"));  //<-- TURNED OFF FOR PRIVACY IN THE VIDEO
             System.out.print("Operating System: " + System.getProperty("os.name"));
             System.out.println(" " + System.getProperty("os.version"));
             System.out.println ("By: Blu");
