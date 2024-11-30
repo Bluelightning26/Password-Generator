@@ -1,0 +1,1 @@
+Ditch your old, weak password and generate a new, strong password that has all the requirements for a great one! With 18 characters, numbers, symbols, and both cases it's hard for people to memorize while peaking over your shoulder!
