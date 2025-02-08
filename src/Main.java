@@ -7,7 +7,7 @@ class Password_Generator
         Scanner sc = new Scanner(System.in);
         Random rand = new Random();
 
-        boolean showSystemProperties=false;
+        boolean showSystemProperties = false;
 
         //Prompt
         System.out.println("\n\n\nWelcome to the Password Generator\n\n");
